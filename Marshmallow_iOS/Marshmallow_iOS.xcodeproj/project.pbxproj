@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -17,6 +17,8 @@
 		ECDA3BB425692E0C000554A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECDA3BB225692E0C000554A5 /* LaunchScreen.storyboard */; };
 		ECDA3BBF25692E0D000554A5 /* Marshmallow_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDA3BBE25692E0D000554A5 /* Marshmallow_iOSTests.swift */; };
 		ECDA3BCA25692E0D000554A5 /* Marshmallow_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDA3BC925692E0D000554A5 /* Marshmallow_iOSUITests.swift */; };
+		ECDA3BF325693AB7000554A5 /* GenericResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDA3BF225693AB7000554A5 /* GenericResponse.swift */; };
+		ECDA3BF825693AF2000554A5 /* APIConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDA3BF725693AF2000554A5 /* APIConstants.swift */; };
 		FA6395ECE5EC1D4FBB355566 /* Pods_Marshmallow_iOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61B585CAD04AEAA679170051 /* Pods_Marshmallow_iOSTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +62,8 @@
 		ECDA3BC525692E0D000554A5 /* Marshmallow_iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Marshmallow_iOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECDA3BC925692E0D000554A5 /* Marshmallow_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marshmallow_iOSUITests.swift; sourceTree = "<group>"; };
 		ECDA3BCB25692E0D000554A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECDA3BF225693AB7000554A5 /* GenericResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericResponse.swift; sourceTree = "<group>"; };
+		ECDA3BF725693AF2000554A5 /* APIConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIConstants.swift; sourceTree = "<group>"; };
 		FFC788897AABBB8CB9118C20 /* Pods-Marshmallow_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Marshmallow_iOS.debug.xcconfig"; path = "Target Support Files/Pods-Marshmallow_iOS/Pods-Marshmallow_iOS.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,7 +115,6 @@
 				2129FD6AA631924FE28374C9 /* Pods-Marshmallow_iOSTests.debug.xcconfig */,
 				A48458E6E2CF38B63FEA7349 /* Pods-Marshmallow_iOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -200,6 +203,7 @@
 		ECDA3BDD25692F38000554A5 /* APIService */ = {
 			isa = PBXGroup;
 			children = (
+				ECDA3BF725693AF2000554A5 /* APIConstants.swift */,
 			);
 			path = APIService;
 			sourceTree = "<group>";
@@ -237,6 +241,7 @@
 		ECDA3BE225692F8E000554A5 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				ECDA3BF225693AB7000554A5 /* GenericResponse.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -479,6 +484,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECDA3BF325693AB7000554A5 /* GenericResponse.swift in Sources */,
+				ECDA3BF825693AF2000554A5 /* APIConstants.swift in Sources */,
 				ECDA3BAC25692E0B000554A5 /* ViewController.swift in Sources */,
 				ECDA3BA825692E0B000554A5 /* AppDelegate.swift in Sources */,
 				ECDA3BAA25692E0B000554A5 /* SceneDelegate.swift in Sources */,
