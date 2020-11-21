@@ -7,7 +7,7 @@
 > 
 >  <br>
 
-<br>
+----
 
 ## 📃 목차
 
@@ -19,7 +19,7 @@
 - [어려운 기능 설명 및 새롭게 알게된 것 설명](#✏️-어려운-기능-설명-및-새롭게-알게된-것-설명)
 - [팀원 소개](#🍎-ios-developer)
 
-
+<br>
 
 ## 🔍 Project
 
@@ -32,7 +32,7 @@
 #### AutoLayout
 - iPhone 11 pro
 
-
+----
 
 ## 🛠 개발 환경 및 사용한 라이브러리 (Development Environment and Using Library)
 
@@ -40,7 +40,6 @@
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg) [![Creative Commons License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](http://creativecommons.org/licenses/by/4.0/) <img src="https://camo.githubusercontent.com/068f624eb1aea7290293a41532983b1519da346d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d31332e332d6c6967687467726579"> <img src="https://camo.githubusercontent.com/09ed72f0fef2987a6ea9ddb10106cd2a14d87944/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58636f64652d31312e332d626c7565"> 
 
-<br>
 
 ### Using Library  
 | 라이브러리(Library) | 목적(Purpose) | 버전(Version) |
@@ -48,7 +47,7 @@
 | Alamofire   | 서버 통신 | 4.8.2 |
 | Kingfisher  | 이미지 처리 | 5.0 |
 
-<br>
+----
 
 ## 📝 Coding Convention 
 
@@ -70,7 +69,6 @@
 
 👉 [자세히](https://github.com/27th-sopkathon-marshmallow/Marshmallow_iOS/wiki/Marshmallow_Coding_Convention#주석)
 
-<br> 
 
 ### 네이밍
 
@@ -132,7 +130,7 @@
 다음 스타일 Guide를 참고헀음 👉 [Style Guide](https://github.com/27th-sopkathon-marshmallow/Marshmallow_iOS/wiki/Marshmallow_Coding_Convention)
 
 
-<br>
+----
 
 ## 👏 기능 소개 (Function Introduction)
 
@@ -142,8 +140,8 @@
 
 
  
-<br>
-
+ ----
+ 
  ## 💻 Github mangement
 
 **마시멜로** 들의  WorkFlow : **Gitflow Workflow**
@@ -235,7 +233,7 @@ git push origin develop
 ```
 
 
-
+----
 
 
 ## 🏞 간단한 화면 설명
@@ -264,31 +262,33 @@ git push origin develop
 
 3. View
 
-   > ~가능
-   >
-   > ~가능
-   >
-   > ~가능
-   >
-   > ~가능
-   >
-   > 
+> ~가능
+>
+> ~가능
+>
+> ~가능
+>
+> ~가능
+>
+> 
 
 //이미지 넣기
 
 4. View
 
-   > ~플랫폼
-   >
-   > ~가능
-   >
-   > ~가능
-   >
-   > 
+> ~플랫폼
+>
+> ~가능
+>
+> ~가능
+>
+> 
 
 //이미지 넣기
 
 <br>
+
+----
 
 ## ✏️ 어려운 기능 설명 및 새롭게 알게된 것 설명
 
@@ -300,15 +300,20 @@ git push origin develop
 
 ----
 
-<br>
 
 ## 🍎 iOS Developer
 
-//우리 사진 넣기?
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878737-c76ddc80-2c4a-11eb-901a-d404a39cb377.JPG" width="600px" />
 
 * [지은](https://github.com/hwangJi-dev)
 
+
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878706-a2796980-2c4a-11eb-9e68-aefe1f568680.jpeg" width="600px" />
+
 * [윤재](https://github.com/qodhrkawk)
+
+
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878656-6fcf7100-2c4a-11eb-9468-1f755b86df75.jpeg" width="600px" />
 
 - [서현](https://github.com/seohyun-106)
 
