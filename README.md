@@ -1,7 +1,3 @@
-# Marshmallow_iOS
-Marshmallow_iOS
-
-
 # 긍정적 중독을 활용한 의지 강화 서비스, 마시멜로
 
 
@@ -11,9 +7,11 @@ Marshmallow_iOS
 > 
 >  <br>
 
+<br>
+
 ## 📃 목차
 
-- [Project 설명](#project)
+- [Project 설명](#🔍-project)
 - [개발 환경 및 라이브러리](#🛠-개발-환경-및-사용한-라이브러리-(development-environment-and-using-library))
 - [Coding Convention](#📝-coding-convention)
 - [Github mangement](#💻-github-mangement)
@@ -42,7 +40,7 @@ Marshmallow_iOS
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg) [![Creative Commons License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](http://creativecommons.org/licenses/by/4.0/) <img src="https://camo.githubusercontent.com/068f624eb1aea7290293a41532983b1519da346d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d31332e332d6c6967687467726579"> <img src="https://camo.githubusercontent.com/09ed72f0fef2987a6ea9ddb10106cd2a14d87944/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58636f64652d31312e332d626c7565"> 
 
-
+<br>
 
 ### Using Library  
 | 라이브러리(Library) | 목적(Purpose) | 버전(Version) |
@@ -50,27 +48,29 @@ Marshmallow_iOS
 | Alamofire   | 서버 통신 | 4.8.2 |
 | Kingfisher  | 이미지 처리 | 5.0 |
 
-
+<br>
 
 ## 📝 Coding Convention 
 
 ### 폴더구조
 
 * Resources
-    * Storyboards
-    * APIServices
-        * APIConstants
-        * NetworkResults
-        * Services
+    * Assets.xcassets
+    * Storyboard
+    * APIService
+        * APIConstant
+    * Font
+
 * Sources
-    *  VCs
-    * Cells
-        * Xibs
-    * Protocols
-    * Models
-    * Designs
+    *  Vc
+    * Cell
+    * Extension
+    * Model
+        * GenericResponse
 
 👉 [자세히](https://github.com/27th-sopkathon-marshmallow/Marshmallow_iOS/wiki/Marshmallow_Coding_Convention#주석)
+
+<br> 
 
 ### 네이밍
 
@@ -132,6 +132,7 @@ Marshmallow_iOS
 다음 스타일 Guide를 참고헀음 👉 [Style Guide](https://github.com/27th-sopkathon-marshmallow/Marshmallow_iOS/wiki/Marshmallow_Coding_Convention)
 
 
+<br>
 
 ## 👏 기능 소개 (Function Introduction)
 
@@ -141,6 +142,7 @@ Marshmallow_iOS
 
 
  
+<br>
 
  ## 💻 Github mangement
 
@@ -286,6 +288,7 @@ git push origin develop
 
 //이미지 넣기
 
+<br>
 
 ## ✏️ 어려운 기능 설명 및 새롭게 알게된 것 설명
 
@@ -296,6 +299,8 @@ git push origin develop
 
 
 ----
+
+<br>
 
 ## 🍎 iOS Developer
 
