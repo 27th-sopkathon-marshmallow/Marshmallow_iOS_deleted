@@ -13,11 +13,13 @@
 
 - [Project 설명](#🔍-project)
 - [개발 환경 및 라이브러리](#🛠-개발-환경-및-사용한-라이브러리-(development-environment-and-using-library))
+- [팀원 소개](#🍎-ios-developer)
+- [기능 소개](#👏-기능-소개-(Function-Introduction))
+- [간단한 화면 설명](#🏞-간단한-화면-설명)
 - [Coding Convention](#📝-coding-convention)
 - [Github mangement](#💻-github-mangement)
-- [간단한 화면 설명](#🏞-간단한-화면-설명)
 - [어려운 기능 설명 및 새롭게 알게된 것 설명](#✏️-어려운-기능-설명-및-새롭게-알게된-것-설명)
-- [팀원 소개](#🍎-ios-developer)
+
 
 <br>
 
@@ -58,19 +60,19 @@
 
 <br>
 
-<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878706-a2796980-2c4a-11eb-9e68-aefe1f568680.jpeg" width="200px" />
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878706-a2796980-2c4a-11eb-9e68-aefe1f568680.jpeg" width="200px" height = "200px" />
 
 * [윤재](https://github.com/qodhrkawk)
 
 <br>
 
-<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878656-6fcf7100-2c4a-11eb-9468-1f755b86df75.jpeg" width="200px" />
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878656-6fcf7100-2c4a-11eb-9468-1f755b86df75.jpeg" width="200px" height = "200px" />
 
 - [서현](https://github.com/seohyun-106)
 
 
 
-
+ 
 <br>
 
 ## 👏 기능 소개 (Function Introduction)
@@ -84,8 +86,56 @@
  <br>
  
  
+ 
+ ## 🏞 간단한 화면 설명
 
+ 1. Home View
 
+ > 
+ >
+ > 
+ >
+ > 
+
+ //이미지 넣기
+
+ 2. View
+
+ > ~하는 기능
+ >
+ > ~ 설정 가능
+
+ //이미지 넣기
+
+ 3. View
+
+ > ~가능
+ >
+ > ~가능
+ >
+ > ~가능
+ >
+ > ~가능
+ >
+ > 
+
+ //이미지 넣기
+
+ 4. View
+
+ > ~플랫폼
+ >
+ > ~가능
+ >
+ > ~가능
+ >
+ > 
+
+ //이미지 넣기
+
+ <br>
+ 
+ 
 
 ## 📝 Coding Convention 
 
@@ -169,67 +219,6 @@
 
 
 <br>
-
-## 👏 기능 소개 (Function Introduction)
-
-| Category | Priority | Function | Implemention | Part |
-|:--------|:--------|:--------:|:---------|:--------:|
-| 로그인/회원가입 | 1 | 로그인 | ⭕️ | [지은](https://github.com/hwangJi) |
-
-
- 
- <br>
- 
- 
- 
- ## 🏞 간단한 화면 설명
-
- 1. Home View
-
- > 
- >
- > 
- >
- > 
-
- //이미지 넣기
-
- 2. View
-
- > ~하는 기능
- >
- > ~ 설정 가능
-
- //이미지 넣기
-
- 3. View
-
- > ~가능
- >
- > ~가능
- >
- > ~가능
- >
- > ~가능
- >
- > 
-
- //이미지 넣기
-
- 4. View
-
- > ~플랫폼
- >
- > ~가능
- >
- > ~가능
- >
- > 
-
- //이미지 넣기
-
- <br>
- 
  
  
  ## 💻 Github mangement
