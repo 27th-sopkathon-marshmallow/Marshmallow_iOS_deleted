@@ -7,7 +7,7 @@
 > 
 >  <br>
 
-----
+<br>
 
 ## 📃 목차
 
@@ -32,7 +32,7 @@
 #### AutoLayout
 - iPhone 11 pro
 
-----
+<br>
 
 ## 🛠 개발 환경 및 사용한 라이브러리 (Development Environment and Using Library)
 
@@ -47,7 +47,45 @@
 | Alamofire   | 서버 통신 | 4.8.2 |
 | Kingfisher  | 이미지 처리 | 5.0 |
 
-----
+<br>
+
+
+## 🍎 iOS Developer
+
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878737-c76ddc80-2c4a-11eb-901a-d404a39cb377.JPG" width="200px" />
+
+* [지은](https://github.com/hwangJi-dev)
+
+<br>
+
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878706-a2796980-2c4a-11eb-9e68-aefe1f568680.jpeg" width="200px" />
+
+* [윤재](https://github.com/qodhrkawk)
+
+<br>
+
+<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878656-6fcf7100-2c4a-11eb-9468-1f755b86df75.jpeg" width="200px" />
+
+- [서현](https://github.com/seohyun-106)
+
+
+
+
+<br>
+
+## 👏 기능 소개 (Function Introduction)
+
+| Category | Priority | Function | Implemention | Part |
+|:--------|:--------|:--------:|:---------|:--------:|
+| 로그인/회원가입 | 1 | 로그인 | ⭕️ | [지은](https://github.com/hwangJi) |
+
+
+ 
+ <br>
+ 
+ 
+
+
 
 ## 📝 Coding Convention 
 
@@ -130,7 +168,7 @@
 다음 스타일 Guide를 참고헀음 👉 [Style Guide](https://github.com/27th-sopkathon-marshmallow/Marshmallow_iOS/wiki/Marshmallow_Coding_Convention)
 
 
-----
+<br>
 
 ## 👏 기능 소개 (Function Introduction)
 
@@ -140,7 +178,59 @@
 
 
  
- ----
+ <br>
+ 
+ 
+ 
+ ## 🏞 간단한 화면 설명
+
+ 1. Home View
+
+ > 
+ >
+ > 
+ >
+ > 
+
+ //이미지 넣기
+
+ 2. View
+
+ > ~하는 기능
+ >
+ > ~ 설정 가능
+
+ //이미지 넣기
+
+ 3. View
+
+ > ~가능
+ >
+ > ~가능
+ >
+ > ~가능
+ >
+ > ~가능
+ >
+ > 
+
+ //이미지 넣기
+
+ 4. View
+
+ > ~플랫폼
+ >
+ > ~가능
+ >
+ > ~가능
+ >
+ > 
+
+ //이미지 넣기
+
+ <br>
+ 
+ 
  
  ## 💻 Github mangement
 
@@ -233,62 +323,9 @@ git push origin develop
 ```
 
 
-----
-
-
-## 🏞 간단한 화면 설명
-
-1. 초기 로그인/ 회원가입 
-
-
-
-1. Home View
-
-> 
->
-> 
->
-> 
-
-//이미지 넣기
-
-2. View
-
-> ~하는 기능
->
-> ~ 설정 가능
-
-//이미지 넣기
-
-3. View
-
-> ~가능
->
-> ~가능
->
-> ~가능
->
-> ~가능
->
-> 
-
-//이미지 넣기
-
-4. View
-
-> ~플랫폼
->
-> ~가능
->
-> ~가능
->
-> 
-
-//이미지 넣기
 
 <br>
 
-----
 
 ## ✏️ 어려운 기능 설명 및 새롭게 알게된 것 설명
 
@@ -298,22 +335,6 @@ git push origin develop
 
 
 
-----
+<br>
 
-
-## 🍎 iOS Developer
-
-<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878737-c76ddc80-2c4a-11eb-901a-d404a39cb377.JPG" width="600px" />
-
-* [지은](https://github.com/hwangJi-dev)
-
-
-<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878706-a2796980-2c4a-11eb-9e68-aefe1f568680.jpeg" width="600px" />
-
-* [윤재](https://github.com/qodhrkawk)
-
-
-<img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/63224278/99878656-6fcf7100-2c4a-11eb-9468-1f755b86df75.jpeg" width="600px" />
-
-- [서현](https://github.com/seohyun-106)
 
